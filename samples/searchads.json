@@ -1,0 +1,1677 @@
+{
+  "success": true,
+  "data": {
+    "totalItems": 4150,
+    "page": {
+      "number": 1,
+      "size": 10
+    },
+    "items": [
+      {
+        "id": "3_191160142",
+        "propertyId": "191160142",
+        "transactionType": "3",
+        "promotionId": null,
+        "propertyType": "2",
+        "propertySubtype": "1",
+        "purchaseType": "2",
+        "conservationStatus": null,
+        "surface": 78,
+        "rooms": 3,
+        "baths": 1,
+        "addressVisibilityMode": "2",
+        "zipCode": "28021",
+        "zone": "",
+        "street": "de Alberto Palacios",
+        "streetType": null,
+        "number": null,
+        "orientation": null,
+        "floor": null,
+        "antiquity": null,
+        "hotWater": null,
+        "description": "Estupendo piso en Villaverde.\n\nLa vivienda se distribuye en 3 amplios dormitorios ,  salón comedor,  cuarto de baño completo, cocina equipada. La vivienda ha si...",
+        "agencyReference": "2829-038448-02",
+        "alterDate": "2026-10-20T15:02:22.540",
+        "publicationDate": "2026-10-20T15:02:22.413",
+        "bumpDate": null,
+        "classifiedVerySimilarToOtherInTheSamePromotion": false,
+        "location": {
+          "countryId": "724",
+          "countryName": "España",
+          "level1Id": "14",
+          "level1Name": "Madrid",
+          "level2Id": "28",
+          "level2Name": "Madrid",
+          "level3Id": "173",
+          "level3Name": "Madrid, Zona de",
+          "level4Id": null,
+          "level4Name": null,
+          "level5Id": "28079",
+          "level5Name": "Madrid",
+          "level6Id": null,
+          "level6Name": null,
+          "level7Id": "670",
+          "level7Name": "Villaverde",
+          "level8Id": "36",
+          "level8Name": "Villaverde Alto",
+          "latitude": "40.34639167701391",
+          "longitude": "-3.709638392646651"
+        },
+        "energyCertificate": null,
+        "agency": {
+          "id": "9202750898737",
+          "publisherId": "96f00506-5d56-4523-bf74-822a3582e8e4",
+          "logo": "https://static.fotocasa.es/images/client/96f00506-5d56-4523-bf74-822a3582e8e4/20260601140553?rule=original",
+          "name": "ALQUILER SEGURO CENTRAL",
+          "alias": "Alquiler Seguro",
+          "type": "professional",
+          "isBank": false,
+          "urls": [
+            {
+              "language": "es_ES",
+              "value": "/es/pro/alquiler-seguro/"
+            },
+            {
+              "language": "ca_ES",
+              "value": "/ca/pro/alquiler-seguro/"
+            },
+            {
+              "language": "de_DE",
+              "value": "/de/pro/alquiler-seguro/"
+            },
+            {
+              "language": "en_US",
+              "value": "/en/pro/alquiler-seguro/"
+            }
+          ],
+          "brandInfo": {
+            "barColor": "#FF7B2A",
+            "textColor": "#FFFFFF",
+            "logo": null
+          },
+          "parent": null
+        },
+        "transaction": {
+          "type": "RENT",
+          "price": 990,
+          "priceDrop": null
+        },
+        "features": [
+          {
+            "id": "3"
+          },
+          {
+            "id": "10"
+          },
+          {
+            "id": "130"
+          },
+          {
+            "id": "131"
+          }
+        ],
+        "multimedia": [
+          {
+            "url": "https://static.fotocasa.es/images/ads/db0fb1a4-fc00-42af-98ea-e321c7b99a18?rule=original",
+            "type": "2",
+            "position": 1,
+            "classification": null
+          },
+          {
+            "url": "https://static.fotocasa.es/images/ads/372c7dd9-449c-4b39-abf8-2c15f0fc4574?rule=original",
+            "type": "2",
+            "position": 2,
+            "classification": null
+          }
+        ],
+        "products": [],
+        "productsScoring": 1,
+        "scoring": 60,
+        "leadSaturation": null,
+        "contracts": [
+          {
+            "productId": "7"
+          },
+          {
+            "productId": "107"
+          },
+          {
+            "productId": "110"
+          }
+        ],
+        "uris": [
+          {
+            "language": "es_ES",
+            "value": "/es/alquiler/vivienda/madrid-capital/calefaccion-terraza-no-amueblado/191160142/d"
+          },
+          {
+            "language": "en_US",
+            "value": "/en/rental/home/madrid-capital/heating-terrace-not-furnished/191160142/d"
+          },
+          {
+            "language": "ca_ES",
+            "value": "/ca/lloguer/vivenda/madrid-capital/calefaccio-terrassa-no-moblat/191160142/d"
+          },
+          {
+            "language": "de_DE",
+            "value": "/de/miete/wohnimmobilie/madrid-capital/heizung-terrasse-no-amueblado/191160142/d"
+          }
+        ],
+        "excludedSearches": [],
+        "externalContactUrl": null,
+        "realEstateAdId": "c7511850-27b9-4d4c-a253-fe418e1e230c",
+        "hasOnlineGuidedTour": false,
+        "promotion": null,
+        "hasSubsidies": false,
+        "hasMicrositeAdvanceVisibility": false,
+        "hasPhotos": true,
+        "hasVideos": false,
+        "agencyIsBank": false,
+        "photosCount": 21,
+        "floorType": "INTERMEDIATE_FLOOR",
+        "isTop": false,
+        "isPhotoReport": false,
+        "hasOrientation": false,
+        "favorite": null,
+        "isMainTypology": false,
+        "isExternalContact": false,
+        "dynamicFeatures": [],
+        "rentalType": null
+      },
+      {
+        "id": "3_191160109",
+        "propertyId": "191160109",
+        "transactionType": "3",
+        "promotionId": null,
+        "propertyType": "2",
+        "propertySubtype": "1",
+        "purchaseType": "2",
+        "conservationStatus": null,
+        "surface": 65,
+        "rooms": 2,
+        "baths": 1,
+        "addressVisibilityMode": "2",
+        "zipCode": "28027",
+        "zone": "",
+        "street": "Alegria de Oria",
+        "streetType": null,
+        "number": null,
+        "orientation": null,
+        "floor": null,
+        "antiquity": null,
+        "hotWater": null,
+        "description": "Vivienda reformada de 65m2 distribuida en 2 habitaciones, amplio salón-comedor, 1 baño con plato de ducha y cocina amueblada y equipada. Calefacción central has...",
+        "agencyReference": "2804-038447-02",
+        "alterDate": "2026-10-20T15:00:39.847",
+        "publicationDate": "2026-10-20T15:00:39.700",
+        "bumpDate": null,
+        "classifiedVerySimilarToOtherInTheSamePromotion": false,
+        "location": {
+          "countryId": "724",
+          "countryName": "España",
+          "level1Id": "14",
+          "level1Name": "Madrid",
+          "level2Id": "28",
+          "level2Name": "Madrid",
+          "level3Id": "173",
+          "level3Name": "Madrid, Zona de",
+          "level4Id": null,
+          "level4Name": null,
+          "level5Id": "28079",
+          "level5Name": "Madrid",
+          "level6Id": null,
+          "level6Name": null,
+          "level7Id": "685",
+          "level7Name": "Ciudad Lineal",
+          "level8Id": "134",
+          "level8Name": "Concepción",
+          "latitude": "40.44288870867748",
+          "longitude": "-3.644435051427781"
+        },
+        "energyCertificate": null,
+        "agency": {
+          "id": "9202750898737",
+          "publisherId": "96f00506-5d56-4523-bf74-822a3582e8e4",
+          "logo": "https://static.fotocasa.es/images/client/96f00506-5d56-4523-bf74-822a3582e8e4/20260601140553?rule=original",
+          "name": "ALQUILER SEGURO CENTRAL",
+          "alias": "Alquiler Seguro",
+          "type": "professional",
+          "isBank": false,
+          "urls": [
+            {
+              "language": "es_ES",
+              "value": "/es/pro/alquiler-seguro/"
+            },
+            {
+              "language": "ca_ES",
+              "value": "/ca/pro/alquiler-seguro/"
+            },
+            {
+              "language": "de_DE",
+              "value": "/de/pro/alquiler-seguro/"
+            },
+            {
+              "language": "en_US",
+              "value": "/en/pro/alquiler-seguro/"
+            }
+          ],
+          "brandInfo": {
+            "barColor": "#FF7B2A",
+            "textColor": "#FFFFFF",
+            "logo": null
+          },
+          "parent": null
+        },
+        "transaction": {
+          "type": "RENT",
+          "price": 1295,
+          "priceDrop": null
+        },
+        "features": [
+          {
+            "id": "1"
+          },
+          {
+            "id": "3"
+          },
+          {
+            "id": "5"
+          },
+          {
+            "id": "13"
+          },
+          {
+            "id": "19"
+          },
+          {
+            "id": "131"
+          }
+        ],
+        "multimedia": [
+          {
+            "url": "https://static.fotocasa.es/images/ads/473c0c26-77a7-489b-8cd5-dd2c503824b5?rule=original",
+            "type": "2",
+            "position": 1,
+            "classification": null
+          },
+          {
+            "url": "https://static.fotocasa.es/images/ads/5cf246e1-0d52-4047-b5e1-6a4f09a99984?rule=original",
+            "type": "2",
+            "position": 2,
+            "classification": null
+          }
+        ],
+        "products": [],
+        "productsScoring": 1,
+        "scoring": 61,
+        "leadSaturation": null,
+        "contracts": [
+          {
+            "productId": "7"
+          },
+          {
+            "productId": "107"
+          },
+          {
+            "productId": "110"
+          }
+        ],
+        "uris": [
+          {
+            "language": "es_ES",
+            "value": "/es/alquiler/vivienda/madrid-capital/aire-acondicionado-calefaccion-parking-ascensor-amueblado/191160109/d"
+          },
+          {
+            "language": "en_US",
+            "value": "/en/rental/home/madrid-capital/air-conditioning-heating-parking-lift-furnished/191160109/d"
+          },
+          {
+            "language": "ca_ES",
+            "value": "/ca/lloguer/vivenda/madrid-capital/aire-condicionat-calefaccio-parking-ascensor-moblat/191160109/d"
+          },
+          {
+            "language": "de_DE",
+            "value": "/de/miete/wohnimmobilie/madrid-capital/aire-acondicionado-heizung-parking-fahrstuhl-mobliert/191160109/d"
+          }
+        ],
+        "excludedSearches": [],
+        "externalContactUrl": null,
+        "realEstateAdId": "2505e9d2-f85a-4b76-98fb-827625dfe77e",
+        "hasOnlineGuidedTour": false,
+        "promotion": null,
+        "hasSubsidies": false,
+        "hasMicrositeAdvanceVisibility": false,
+        "hasPhotos": true,
+        "hasVideos": false,
+        "agencyIsBank": false,
+        "photosCount": 22,
+        "floorType": "INTERMEDIATE_FLOOR",
+        "isTop": false,
+        "isPhotoReport": false,
+        "hasOrientation": false,
+        "favorite": null,
+        "isMainTypology": false,
+        "isExternalContact": false,
+        "dynamicFeatures": [],
+        "rentalType": null
+      }
+    ],
+    "locationFacets": {
+      "countries": [],
+      "provinces": [],
+      "regions": [],
+      "municipalities": [
+        {
+          "literal": " Madrid Capital",
+          "counter": 4150,
+          "combinedLocation": "724,14,28,173,0,28079,0,0,0",
+          "segments": "madrid-capital/todas-las-zonas",
+          "selected": true,
+          "subLocations": null
+        }
+      ],
+      "localities": [],
+      "districts": [
+        {
+          "literal": "Arganzuela",
+          "counter": 231,
+          "combinedLocation": "724,14,28,173,0,28079,0,671,0",
+          "segments": "madrid-capital/arganzuela",
+          "selected": false,
+          "subLocations": null
+        },
+        {
+          "literal": "Barajas",
+          "counter": 23,
+          "combinedLocation": "724,14,28,173,0,28079,0,668,0",
+          "segments": "madrid-capital/barajas",
+          "selected": false,
+          "subLocations": null
+        },
+        {
+          "literal": "Barrio de Salamanca",
+          "counter": 600,
+          "combinedLocation": "724,14,28,173,0,28079,0,667,0",
+          "segments": "madrid-capital/barrio-de-salamanca",
+          "selected": false,
+          "subLocations": null
+        },
+        {
+          "literal": "Carabanchel",
+          "counter": 84,
+          "combinedLocation": "724,14,28,173,0,28079,0,171,0",
+          "segments": "madrid-capital/carabanchel",
+          "selected": false,
+          "subLocations": null
+        }
+      ],
+      "neighborhoods": [],
+      "edistricts": [
+        {
+          "literal": "Arganzuela",
+          "counter": 231,
+          "combinedLocation": "724,14,28,173,0,28079,0,671,0",
+          "segments": "madrid-capital/arganzuela",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Acacias",
+              "counter": 42,
+              "combinedLocation": "724,14,28,173,0,28079,0,671,40",
+              "segments": "madrid-capital/acacias",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Chopera",
+              "counter": 26,
+              "combinedLocation": "724,14,28,173,0,28079,0,671,41",
+              "segments": "madrid-capital/chopera",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Delicias",
+              "counter": 33,
+              "combinedLocation": "724,14,28,173,0,28079,0,671,44",
+              "segments": "madrid-capital/delicias",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Imperial",
+              "counter": 33,
+              "combinedLocation": "724,14,28,173,0,28079,0,671,42",
+              "segments": "madrid-capital/imperial",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Legazpi",
+              "counter": 16,
+              "combinedLocation": "724,14,28,173,0,28079,0,671,43",
+              "segments": "madrid-capital/legazpi",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Palos de Moguer",
+              "counter": 81,
+              "combinedLocation": "724,14,28,173,0,28079,0,671,45",
+              "segments": "madrid-capital/palos-de-moguer",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Barajas",
+          "counter": 23,
+          "combinedLocation": "724,14,28,173,0,28079,0,668,0",
+          "segments": "madrid-capital/barajas",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Aeropuerto",
+              "counter": 1,
+              "combinedLocation": "724,14,28,173,0,28079,0,668,27",
+              "segments": "madrid-capital/aeropuerto",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Alameda de Osuna",
+              "counter": 7,
+              "combinedLocation": "724,14,28,173,0,28079,0,668,26",
+              "segments": "madrid-capital/alameda-de-osuna",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Casco Histórico de Barajas",
+              "counter": 10,
+              "combinedLocation": "724,14,28,173,0,28079,0,668,24",
+              "segments": "madrid-capital/casco-historico-de-barajas",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Corralejos - Campo de las Naciones",
+              "counter": 3,
+              "combinedLocation": "724,14,28,173,0,28079,0,668,23",
+              "segments": "madrid-capital/corralejos-campo-de-las-naciones",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Timón",
+              "counter": 2,
+              "combinedLocation": "724,14,28,173,0,28079,0,668,25",
+              "segments": "madrid-capital/timon",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Barrio de Salamanca",
+          "counter": 600,
+          "combinedLocation": "724,14,28,173,0,28079,0,667,0",
+          "segments": "madrid-capital/barrio-de-salamanca",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Castellana",
+              "counter": 101,
+              "combinedLocation": "724,14,28,173,0,28079,0,667,19",
+              "segments": "madrid-capital/castellana",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Fuente del Berro",
+              "counter": 50,
+              "combinedLocation": "724,14,28,173,0,28079,0,667,21",
+              "segments": "madrid-capital/fuente-del-berro",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Goya",
+              "counter": 155,
+              "combinedLocation": "724,14,28,173,0,28079,0,667,18",
+              "segments": "madrid-capital/goya",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Guindalera",
+              "counter": 82,
+              "combinedLocation": "724,14,28,173,0,28079,0,667,20",
+              "segments": "madrid-capital/guindalera",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Lista",
+              "counter": 90,
+              "combinedLocation": "724,14,28,173,0,28079,0,667,22",
+              "segments": "madrid-capital/lista",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Recoletos",
+              "counter": 122,
+              "combinedLocation": "724,14,28,173,0,28079,0,667,17",
+              "segments": "madrid-capital/recoletos",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Carabanchel",
+          "counter": 84,
+          "combinedLocation": "724,14,28,173,0,28079,0,171,0",
+          "segments": "madrid-capital/carabanchel",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Abrantes",
+              "counter": 2,
+              "combinedLocation": "724,14,28,173,0,28079,0,171,95",
+              "segments": "madrid-capital/abrantes",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Buena Vista",
+              "counter": 7,
+              "combinedLocation": "724,14,28,173,0,28079,0,171,96",
+              "segments": "madrid-capital/buena-vista",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Comillas",
+              "counter": 13,
+              "combinedLocation": "724,14,28,173,0,28079,0,171,97",
+              "segments": "madrid-capital/comillas",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Opañel",
+              "counter": 19,
+              "combinedLocation": "724,14,28,173,0,28079,0,171,98",
+              "segments": "madrid-capital/opanel",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Puerta Bonita",
+              "counter": 15,
+              "combinedLocation": "724,14,28,173,0,28079,0,171,100",
+              "segments": "madrid-capital/puerta-bonita",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "San Isidro",
+              "counter": 24,
+              "combinedLocation": "724,14,28,173,0,28079,0,171,101",
+              "segments": "madrid-capital/san-isidro",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Vista Alegre",
+              "counter": 4,
+              "combinedLocation": "724,14,28,173,0,28079,0,171,102",
+              "segments": "madrid-capital/vista-alegre",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Centro",
+          "counter": 1142,
+          "combinedLocation": "724,14,28,173,0,28079,0,672,0",
+          "segments": "madrid-capital/centro",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Cortes - Huertas",
+              "counter": 140,
+              "combinedLocation": "724,14,28,173,0,28079,0,672,47",
+              "segments": "madrid-capital/cortes-huertas",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Embajadores - Lavapiés",
+              "counter": 322,
+              "combinedLocation": "724,14,28,173,0,28079,0,672,48",
+              "segments": "madrid-capital/embajadores-lavapies",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Justicia - Chueca",
+              "counter": 152,
+              "combinedLocation": "724,14,28,173,0,28079,0,672,46",
+              "segments": "madrid-capital/justicia-chueca",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Palacio",
+              "counter": 156,
+              "combinedLocation": "724,14,28,173,0,28079,0,672,49",
+              "segments": "madrid-capital/palacio",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Sol",
+              "counter": 145,
+              "combinedLocation": "724,14,28,173,0,28079,0,672,51",
+              "segments": "madrid-capital/sol",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Universidad - Malasaña",
+              "counter": 227,
+              "combinedLocation": "724,14,28,173,0,28079,0,672,50",
+              "segments": "madrid-capital/universidad-malasana",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Chamartín",
+          "counter": 289,
+          "combinedLocation": "724,14,28,173,0,28079,0,176,0",
+          "segments": "madrid-capital/chamartin",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Castilla",
+              "counter": 45,
+              "combinedLocation": "724,14,28,173,0,28079,0,176,112",
+              "segments": "madrid-capital/castilla",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Ciudad Jardín",
+              "counter": 31,
+              "combinedLocation": "724,14,28,173,0,28079,0,176,113",
+              "segments": "madrid-capital/ciudad-jardin",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "El Viso",
+              "counter": 50,
+              "combinedLocation": "724,14,28,173,0,28079,0,176,117",
+              "segments": "madrid-capital/el-viso",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Hispanoamérica - Bernabéu",
+              "counter": 47,
+              "combinedLocation": "724,14,28,173,0,28079,0,176,115",
+              "segments": "madrid-capital/hispanoamerica-bernabeu",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Nueva España",
+              "counter": 62,
+              "combinedLocation": "724,14,28,173,0,28079,0,176,114",
+              "segments": "madrid-capital/nueva-espana",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Prosperidad",
+              "counter": 54,
+              "combinedLocation": "724,14,28,173,0,28079,0,176,116",
+              "segments": "madrid-capital/prosperidad",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Chamberí",
+          "counter": 432,
+          "combinedLocation": "724,14,28,173,0,28079,0,177,0",
+          "segments": "madrid-capital/chamberi",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Almagro",
+              "counter": 108,
+              "combinedLocation": "724,14,28,173,0,28079,0,177,139",
+              "segments": "madrid-capital/almagro",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Arapiles",
+              "counter": 42,
+              "combinedLocation": "724,14,28,173,0,28079,0,177,138",
+              "segments": "madrid-capital/arapiles",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Gaztambide",
+              "counter": 51,
+              "combinedLocation": "724,14,28,173,0,28079,0,177,140",
+              "segments": "madrid-capital/gaztambide",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Ríos Rosas - Nuevos Ministerios",
+              "counter": 81,
+              "combinedLocation": "724,14,28,173,0,28079,0,177,142",
+              "segments": "madrid-capital/rios-rosas-nuevos-ministerios",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Trafalgar",
+              "counter": 128,
+              "combinedLocation": "724,14,28,173,0,28079,0,177,141",
+              "segments": "madrid-capital/trafalgar",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Vallehermoso",
+              "counter": 22,
+              "combinedLocation": "724,14,28,173,0,28079,0,177,137",
+              "segments": "madrid-capital/vallehermoso",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Ciudad Lineal",
+          "counter": 112,
+          "combinedLocation": "724,14,28,173,0,28079,0,685,0",
+          "segments": "madrid-capital/ciudad-lineal",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Atalaya",
+              "counter": 1,
+              "combinedLocation": "724,14,28,173,0,28079,0,685,135",
+              "segments": "madrid-capital/atalaya",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Colina",
+              "counter": 11,
+              "combinedLocation": "724,14,28,173,0,28079,0,685,136",
+              "segments": "madrid-capital/colina",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Concepción",
+              "counter": 22,
+              "combinedLocation": "724,14,28,173,0,28079,0,685,134",
+              "segments": "madrid-capital/concepcion",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Costillares",
+              "counter": 8,
+              "combinedLocation": "724,14,28,173,0,28079,0,685,131",
+              "segments": "madrid-capital/costillares",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Pueblo Nuevo",
+              "counter": 14,
+              "combinedLocation": "724,14,28,173,0,28079,0,685,132",
+              "segments": "madrid-capital/pueblo-nuevo",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Quintana",
+              "counter": 8,
+              "combinedLocation": "724,14,28,173,0,28079,0,685,128",
+              "segments": "madrid-capital/quintana",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "San Juan Bautista",
+              "counter": 14,
+              "combinedLocation": "724,14,28,173,0,28079,0,685,129",
+              "segments": "madrid-capital/san-juan-bautista",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "San Pascual",
+              "counter": 12,
+              "combinedLocation": "724,14,28,173,0,28079,0,685,130",
+              "segments": "madrid-capital/san-pascual",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Ventas",
+              "counter": 22,
+              "combinedLocation": "724,14,28,173,0,28079,0,685,133",
+              "segments": "madrid-capital/ventas",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Fuencarral - El Pardo",
+          "counter": 80,
+          "combinedLocation": "724,14,28,173,0,28079,0,187,0",
+          "segments": "madrid-capital/fuencarral-el-pardo",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Arroyo del Fresno",
+              "counter": 3,
+              "combinedLocation": "724,14,28,173,0,28079,0,187,817",
+              "segments": "madrid-capital/arroyo-del-fresno",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "El Pardo",
+              "counter": 1,
+              "combinedLocation": "724,14,28,173,0,28079,0,187,9",
+              "segments": "madrid-capital/el-pardo",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "La Paz",
+              "counter": 11,
+              "combinedLocation": "724,14,28,173,0,28079,0,187,10",
+              "segments": "madrid-capital/la-paz",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Las Tablas",
+              "counter": 11,
+              "combinedLocation": "724,14,28,173,0,28079,0,187,11",
+              "segments": "madrid-capital/las-tablas",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Mirasierra",
+              "counter": 3,
+              "combinedLocation": "724,14,28,173,0,28079,0,187,12",
+              "segments": "madrid-capital/mirasierra",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Montecarmelo",
+              "counter": 5,
+              "combinedLocation": "724,14,28,173,0,28079,0,187,13",
+              "segments": "madrid-capital/montecarmelo",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Peñagrande",
+              "counter": 14,
+              "combinedLocation": "724,14,28,173,0,28079,0,187,14",
+              "segments": "madrid-capital/penagrande",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Pilar",
+              "counter": 21,
+              "combinedLocation": "724,14,28,173,0,28079,0,187,15",
+              "segments": "madrid-capital/pilar",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Tres Olivos - Valverde",
+              "counter": 11,
+              "combinedLocation": "724,14,28,173,0,28079,0,187,16",
+              "segments": "madrid-capital/tres-olivos-valverde",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Hortaleza",
+          "counter": 89,
+          "combinedLocation": "724,14,28,173,0,28079,0,678,0",
+          "segments": "madrid-capital/hortaleza",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Apóstol Santiago",
+              "counter": 3,
+              "combinedLocation": "724,14,28,173,0,28079,0,678,86",
+              "segments": "madrid-capital/apostol-santiago",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Canillas",
+              "counter": 18,
+              "combinedLocation": "724,14,28,173,0,28079,0,678,87",
+              "segments": "madrid-capital/canillas",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Conde Orgaz - Piovera",
+              "counter": 8,
+              "combinedLocation": "724,14,28,173,0,28079,0,678,90",
+              "segments": "madrid-capital/conde-orgaz-piovera",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Palomas",
+              "counter": 6,
+              "combinedLocation": "724,14,28,173,0,28079,0,678,88",
+              "segments": "madrid-capital/palomas",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Pinar del Rey",
+              "counter": 23,
+              "combinedLocation": "724,14,28,173,0,28079,0,678,89",
+              "segments": "madrid-capital/pinar-del-rey",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Sanchinarro",
+              "counter": 10,
+              "combinedLocation": "724,14,28,173,0,28079,0,678,91",
+              "segments": "madrid-capital/sanchinarro",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Valdebebas - Valdefuentes",
+              "counter": 11,
+              "combinedLocation": "724,14,28,173,0,28079,0,678,92",
+              "segments": "madrid-capital/valdebebas-valdefuentes",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Virgen del Cortijo - Manoteras",
+              "counter": 10,
+              "combinedLocation": "724,14,28,173,0,28079,0,678,93",
+              "segments": "madrid-capital/virgen-del-cortijo-manoteras",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Latina",
+          "counter": 103,
+          "combinedLocation": "724,14,28,173,0,28079,0,675,0",
+          "segments": "madrid-capital/latina",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Aluche",
+              "counter": 13,
+              "combinedLocation": "724,14,28,173,0,28079,0,675,65",
+              "segments": "madrid-capital/aluche",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Campamento",
+              "counter": 8,
+              "combinedLocation": "724,14,28,173,0,28079,0,675,67",
+              "segments": "madrid-capital/campamento",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Las Águilas",
+              "counter": 4,
+              "combinedLocation": "724,14,28,173,0,28079,0,675,68",
+              "segments": "madrid-capital/las-aguilas",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Los Cármenes",
+              "counter": 10,
+              "combinedLocation": "724,14,28,173,0,28079,0,675,70",
+              "segments": "madrid-capital/los-carmenes",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Lucero",
+              "counter": 21,
+              "combinedLocation": "724,14,28,173,0,28079,0,675,69",
+              "segments": "madrid-capital/lucero",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Puerta del Ángel",
+              "counter": 47,
+              "combinedLocation": "724,14,28,173,0,28079,0,675,66",
+              "segments": "madrid-capital/puerta-del-angel",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Moncloa - Aravaca",
+          "counter": 183,
+          "combinedLocation": "724,14,28,173,0,28079,0,669,0",
+          "segments": "madrid-capital/moncloa-aravaca",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Aravaca",
+              "counter": 24,
+              "combinedLocation": "724,14,28,173,0,28079,0,669,29",
+              "segments": "madrid-capital/aravaca",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Argüelles",
+              "counter": 88,
+              "combinedLocation": "724,14,28,173,0,28079,0,669,33",
+              "segments": "madrid-capital/arguelles",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Casa de Campo",
+              "counter": 13,
+              "combinedLocation": "724,14,28,173,0,28079,0,669,31",
+              "segments": "madrid-capital/casa-de-campo",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Ciudad Universitaria",
+              "counter": 29,
+              "combinedLocation": "724,14,28,173,0,28079,0,669,34",
+              "segments": "madrid-capital/ciudad-universitaria",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "La Florida -  El  Plantío",
+              "counter": 6,
+              "combinedLocation": "724,14,28,173,0,28079,0,669,32",
+              "segments": "madrid-capital/la-florida-el-plantio",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Valdemarín",
+              "counter": 6,
+              "combinedLocation": "724,14,28,173,0,28079,0,669,28",
+              "segments": "madrid-capital/valdemarin",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Valdezarza",
+              "counter": 17,
+              "combinedLocation": "724,14,28,173,0,28079,0,669,30",
+              "segments": "madrid-capital/valdezarza",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Moratalaz",
+          "counter": 18,
+          "combinedLocation": "724,14,28,173,0,28079,0,191,0",
+          "segments": "madrid-capital/moratalaz",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Fontarrón",
+              "counter": 4,
+              "combinedLocation": "724,14,28,173,0,28079,0,191,54",
+              "segments": "madrid-capital/fontarron",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Marroquina",
+              "counter": 5,
+              "combinedLocation": "724,14,28,173,0,28079,0,191,56",
+              "segments": "madrid-capital/marroquina",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Media Legua",
+              "counter": 8,
+              "combinedLocation": "724,14,28,173,0,28079,0,191,55",
+              "segments": "madrid-capital/media-legua",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Vinateros",
+              "counter": 1,
+              "combinedLocation": "724,14,28,173,0,28079,0,191,57",
+              "segments": "madrid-capital/vinateros",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Puente de Vallecas",
+          "counter": 40,
+          "combinedLocation": "724,14,28,173,0,28079,0,677,0",
+          "segments": "madrid-capital/puente-de-vallecas",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Entrevías",
+              "counter": 5,
+              "combinedLocation": "724,14,28,173,0,28079,0,677,81",
+              "segments": "madrid-capital/entrevias",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Numancia",
+              "counter": 8,
+              "combinedLocation": "724,14,28,173,0,28079,0,677,82",
+              "segments": "madrid-capital/numancia",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Palomeras Bajas",
+              "counter": 6,
+              "combinedLocation": "724,14,28,173,0,28079,0,677,80",
+              "segments": "madrid-capital/palomeras-bajas",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Palomeras Sureste",
+              "counter": 7,
+              "combinedLocation": "724,14,28,173,0,28079,0,677,85",
+              "segments": "madrid-capital/palomeras-sureste",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Portazgo",
+              "counter": 3,
+              "combinedLocation": "724,14,28,173,0,28079,0,677,84",
+              "segments": "madrid-capital/portazgo",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "San Diego",
+              "counter": 11,
+              "combinedLocation": "724,14,28,173,0,28079,0,677,83",
+              "segments": "madrid-capital/san-diego",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Retiro",
+          "counter": 250,
+          "combinedLocation": "724,14,28,173,0,28079,0,199,0",
+          "segments": "madrid-capital/retiro",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Adelfas",
+              "counter": 21,
+              "combinedLocation": "724,14,28,173,0,28079,0,199,118",
+              "segments": "madrid-capital/adelfas",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Estrella",
+              "counter": 26,
+              "combinedLocation": "724,14,28,173,0,28079,0,199,123",
+              "segments": "madrid-capital/estrella",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Ibiza de Madrid",
+              "counter": 64,
+              "combinedLocation": "724,14,28,173,0,28079,0,199,122",
+              "segments": "madrid-capital/ibiza-de-madrid",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Jerónimos",
+              "counter": 69,
+              "combinedLocation": "724,14,28,173,0,28079,0,199,121",
+              "segments": "madrid-capital/jeronimos",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Niño Jesús",
+              "counter": 32,
+              "combinedLocation": "724,14,28,173,0,28079,0,199,120",
+              "segments": "madrid-capital/nino-jesus",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Pacífico",
+              "counter": 38,
+              "combinedLocation": "724,14,28,173,0,28079,0,199,119",
+              "segments": "madrid-capital/pacifico",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "San Blas",
+          "counter": 40,
+          "combinedLocation": "724,14,28,173,0,28079,0,676,0",
+          "segments": "madrid-capital/san-blas",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Amposta",
+              "counter": 1,
+              "combinedLocation": "724,14,28,173,0,28079,0,676,75",
+              "segments": "madrid-capital/amposta",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Arcos",
+              "counter": 1,
+              "combinedLocation": "724,14,28,173,0,28079,0,676,74",
+              "segments": "madrid-capital/arcos",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Canillejas",
+              "counter": 4,
+              "combinedLocation": "724,14,28,173,0,28079,0,676,77",
+              "segments": "madrid-capital/canillejas",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Hellín",
+              "counter": 1,
+              "combinedLocation": "724,14,28,173,0,28079,0,676,79",
+              "segments": "madrid-capital/hellin",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Rejas",
+              "counter": 7,
+              "combinedLocation": "724,14,28,173,0,28079,0,676,73",
+              "segments": "madrid-capital/rejas",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Rosas - Musas",
+              "counter": 4,
+              "combinedLocation": "724,14,28,173,0,28079,0,676,72",
+              "segments": "madrid-capital/rosas-musas",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Salvador",
+              "counter": 5,
+              "combinedLocation": "724,14,28,173,0,28079,0,676,78",
+              "segments": "madrid-capital/salvador",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Simancas",
+              "counter": 17,
+              "combinedLocation": "724,14,28,173,0,28079,0,676,76",
+              "segments": "madrid-capital/simancas",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Tetuán",
+          "counter": 319,
+          "combinedLocation": "724,14,28,173,0,28079,0,681,0",
+          "segments": "madrid-capital/tetuan",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Almenara -Ventilla",
+              "counter": 51,
+              "combinedLocation": "724,14,28,173,0,28079,0,681,111",
+              "segments": "madrid-capital/almenara-ventilla",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Bellas Vistas",
+              "counter": 36,
+              "combinedLocation": "724,14,28,173,0,28079,0,681,108",
+              "segments": "madrid-capital/bellas-vistas",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Berruguete",
+              "counter": 29,
+              "combinedLocation": "724,14,28,173,0,28079,0,681,109",
+              "segments": "madrid-capital/berruguete",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Castillejos - Cuzco",
+              "counter": 45,
+              "combinedLocation": "724,14,28,173,0,28079,0,681,110",
+              "segments": "madrid-capital/castillejos-cuzco",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Cuatro Caminos - Azca",
+              "counter": 97,
+              "combinedLocation": "724,14,28,173,0,28079,0,681,107",
+              "segments": "madrid-capital/cuatro-caminos-azca",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Valdeacederas",
+              "counter": 61,
+              "combinedLocation": "724,14,28,173,0,28079,0,681,106",
+              "segments": "madrid-capital/valdeacederas",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Usera",
+          "counter": 47,
+          "combinedLocation": "724,14,28,173,0,28079,0,205,0",
+          "segments": "madrid-capital/usera",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Almendrales",
+              "counter": 7,
+              "combinedLocation": "724,14,28,173,0,28079,0,205,60",
+              "segments": "madrid-capital/almendrales",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Moscardó",
+              "counter": 14,
+              "combinedLocation": "724,14,28,173,0,28079,0,205,58",
+              "segments": "madrid-capital/moscardo",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Orcasitas",
+              "counter": 1,
+              "combinedLocation": "724,14,28,173,0,28079,0,205,59",
+              "segments": "madrid-capital/orcasitas",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Orcasur - 12 de Octubre",
+              "counter": 4,
+              "combinedLocation": "724,14,28,173,0,28079,0,205,61",
+              "segments": "madrid-capital/orcasur-12-de-octubre",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Pradolongo",
+              "counter": 10,
+              "combinedLocation": "724,14,28,173,0,28079,0,205,62",
+              "segments": "madrid-capital/pradolongo",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "San Fermín",
+              "counter": 6,
+              "combinedLocation": "724,14,28,173,0,28079,0,205,64",
+              "segments": "madrid-capital/san-fermin",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Zofio",
+              "counter": 5,
+              "combinedLocation": "724,14,28,173,0,28079,0,205,63",
+              "segments": "madrid-capital/zofio",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Vicálvaro",
+          "counter": 26,
+          "combinedLocation": "724,14,28,173,0,28079,0,209,0",
+          "segments": "madrid-capital/vicalvaro",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Ambroz",
+              "counter": 2,
+              "combinedLocation": "724,14,28,173,0,28079,0,209,124",
+              "segments": "madrid-capital/ambroz",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Casco histórico de Vicálvaro",
+              "counter": 6,
+              "combinedLocation": "724,14,28,173,0,28079,0,209,125",
+              "segments": "madrid-capital/casco-historico-de-vicalvaro",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "El Cañaveral",
+              "counter": 9,
+              "combinedLocation": "724,14,28,173,0,28079,0,209,1673",
+              "segments": "madrid-capital/el-canaveral",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Los Berrocales",
+              "counter": 2,
+              "combinedLocation": "724,14,28,173,0,28079,0,209,1675",
+              "segments": "madrid-capital/los-berrocales",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Valdebernardo - Valderribas",
+              "counter": 7,
+              "combinedLocation": "724,14,28,173,0,28079,0,209,127",
+              "segments": "madrid-capital/valdebernardo-valderribas",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Villa de Vallecas",
+          "counter": 20,
+          "combinedLocation": "724,14,28,173,0,28079,0,680,0",
+          "segments": "madrid-capital/villa-de-vallecas",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Casco Histórico de Vallecas",
+              "counter": 2,
+              "combinedLocation": "724,14,28,173,0,28079,0,680,103",
+              "segments": "madrid-capital/casco-historico-de-vallecas",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Ensanche de Vallecas - La Gavia",
+              "counter": 15,
+              "combinedLocation": "724,14,28,173,0,28079,0,680,104",
+              "segments": "madrid-capital/ensanche-de-vallecas-la-gavia",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Santa Eugenia",
+              "counter": 3,
+              "combinedLocation": "724,14,28,173,0,28079,0,680,105",
+              "segments": "madrid-capital/santa-eugenia",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        },
+        {
+          "literal": "Villaverde",
+          "counter": 22,
+          "combinedLocation": "724,14,28,173,0,28079,0,670,0",
+          "segments": "madrid-capital/villaverde",
+          "selected": false,
+          "subLocations": [
+            {
+              "literal": "Butarque",
+              "counter": 2,
+              "combinedLocation": "724,14,28,173,0,28079,0,670,37",
+              "segments": "madrid-capital/butarque",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Los Ángeles",
+              "counter": 6,
+              "combinedLocation": "724,14,28,173,0,28079,0,670,38",
+              "segments": "madrid-capital/los-angeles",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Los Rosales",
+              "counter": 4,
+              "combinedLocation": "724,14,28,173,0,28079,0,670,39",
+              "segments": "madrid-capital/los-rosales",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "San Cristóbal",
+              "counter": 2,
+              "combinedLocation": "724,14,28,173,0,28079,0,670,35",
+              "segments": "madrid-capital/san-cristobal",
+              "selected": false,
+              "subLocations": null
+            },
+            {
+              "literal": "Villaverde Alto",
+              "counter": 8,
+              "combinedLocation": "724,14,28,173,0,28079,0,670,36",
+              "segments": "madrid-capital/villaverde-alto",
+              "selected": false,
+              "subLocations": null
+            }
+          ]
+        }
+      ]
+    },
+    "purchaseTypeFacets": [],
+    "containerCombinedLocation": null,
+    "urlLocationSegments": {
+      "ca": {
+        "location": "madrid-capital",
+        "zone": "totes-les-zones",
+        "text": ""
+      },
+      "de": {
+        "location": "madrid-capital",
+        "zone": "alle-zonen",
+        "text": ""
+      },
+      "en": {
+        "location": "madrid-capital",
+        "zone": "all-zones",
+        "text": ""
+      },
+      "es": {
+        "location": "madrid-capital",
+        "zone": "todas-las-zonas",
+        "text": ""
+      }
+    },
+    "adjacentAds": [],
+    "superTopAd": null,
+    "priceFacets": []
+  }
+}
