@@ -299,6 +299,7 @@ Yes, including Idealista and Milanuncios. See the
 - [awesome-real-estate-apis](https://github.com/happyendpointhq/awesome-real-estate-apis) - real estate APIs and data sources by country, including official and free ones
 - [rent-com-api](https://github.com/happyendpointhq/rent-com-api) - US rental listings with runnable Python examples
 - [uae-real-estate-api](https://github.com/happyendpointhq/uae-real-estate-api) - Bayut and PropertyFinder through one API
+- [yad2-api](https://github.com/happyendpointhq/yad2-api) - Israel listings with government-registered sale prices, and a comparables example
 - [bayut-api-python-examples](https://github.com/happyendpointhq/bayut-api-python-examples) - more Python patterns for a property API
 
 ---
