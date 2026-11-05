@@ -330,7 +330,7 @@ RapidAPI with a free tier.
 - Catalogue: [happyendpoint.com/library](https://happyendpoint.com/library)
 - Datasets: [happyendpoint.com/datasets](https://happyendpoint.com/datasets)
 - Documentation: [docs.happyendpoint.com](https://docs.happyendpoint.com)
-- Contact: happyendpointhq@gmail.com
+- Contact: hello@happyendpoint.com
 
 ## Licence
 

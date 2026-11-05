@@ -9,6 +9,8 @@ They are trimmed: long arrays are cut to their first few items and descriptions 
 shortened. Phone numbers, email addresses and contact names are removed, and private
 advertisers (`"type": "particular"`) keep only their type. Field names are unchanged.
 
+Privacy review (4 Nov 2026): the listings' coordinates in `searchads.json` and `property-details.json` are rounded to three decimals (about 100 m). Place coordinates in `suggestions.json` are unchanged.
+
 | File | Request |
 |---|---|
 | `suggestions.json` | `GET /suggestions?query=madrid` |

@@ -54,8 +54,8 @@
           "level7Name": "Villaverde",
           "level8Id": "36",
           "level8Name": "Villaverde Alto",
-          "latitude": "40.34639167701391",
-          "longitude": "-3.709638392646651"
+          "latitude": "40.346",
+          "longitude": "-3.710"
         },
         "energyCertificate": null,
         "agency": {
@@ -225,8 +225,8 @@
           "level7Name": "Ciudad Lineal",
           "level8Id": "134",
           "level8Name": "Concepción",
-          "latitude": "40.44288870867748",
-          "longitude": "-3.644435051427781"
+          "latitude": "40.443",
+          "longitude": "-3.644"
         },
         "energyCertificate": null,
         "agency": {
