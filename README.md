@@ -300,6 +300,7 @@ Yes, including Idealista and Milanuncios. See the
 - [rent-com-api](https://github.com/happyendpointhq/rent-com-api) - US rental listings with runnable Python examples
 - [uae-real-estate-api](https://github.com/happyendpointhq/uae-real-estate-api) - Bayut and PropertyFinder through one API
 - [yad2-api](https://github.com/happyendpointhq/yad2-api) - Israel listings with government-registered sale prices, and a comparables example
+- [99co-api](https://github.com/happyendpointhq/99co-api) - Singapore condo and HDB listings, new launches and transaction trends
 - [bayut-api-python-examples](https://github.com/happyendpointhq/bayut-api-python-examples) - more Python patterns for a property API
 
 ---
