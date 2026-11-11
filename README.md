@@ -12,6 +12,8 @@ Built and maintained by [Happy Endpoint](https://happyendpoint.com/library/fotoc
 - Subscribe and test every endpoint on RapidAPI: https://rapidapi.com/happyendpoint/api/fotocasa3
 - Product page: https://happyendpoint.com/library/fotocasa-api?utm_source=github&utm_medium=readme&utm_campaign=fotocasa-api
 - Hosted docs: https://docs.happyendpoint.com/fotocasa/
+- Postman documentation: https://documenter.getpostman.com/view/56555678/2sBYHYuxap
+- Postman collection (fork and run): https://www.postman.com/happyendpoints-team/fotocasa-api
 
 ---
 
