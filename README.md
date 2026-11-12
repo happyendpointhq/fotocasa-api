@@ -304,6 +304,8 @@ Yes, including Idealista and Milanuncios. See the
 - [yad2-api](https://github.com/happyendpointhq/yad2-api) - Israel listings with government-registered sale prices, and a comparables example
 - [99co-api](https://github.com/happyendpointhq/99co-api) - Singapore condo and HDB listings, new launches and transaction trends
 - [bayut-api-python-examples](https://github.com/happyendpointhq/bayut-api-python-examples) - more Python patterns for a property API
+- [hepsiemlak-api](https://github.com/happyendpointhq/hepsiemlak-api) - Turkey listings for sale and rent, with a price index per m2 by province and district
+- [cian-api](https://github.com/happyendpointhq/cian-api) - Russia listings with asking-price history, market estimates and new-build complexes
 
 ---
 
